@@ -1,1 +1,1 @@
-# termux-32bit-bootstrap
+# termux-bootstrap
